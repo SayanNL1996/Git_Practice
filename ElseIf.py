@@ -12,3 +12,7 @@ else:
 
 # print("hello")
 # print('NEw changes)
+<<<<<<< HEAD
+=======
+# print("Another changg")
+>>>>>>> new-branch
